@@ -1,0 +1,27 @@
+	
+A diferença entre "PointerDownLeft" e "PointerUpLeft" está relacionada aos eventos de interação com o mouse ou com 
+dispositivos de toque, especificamente em relação ao botão esquerdo.
+
+PointerDownLeft: Esse evento ocorre quando o botão esquerdo do mouse ou um gesto de toque é pressionado. Ou seja, é 
+disparado no momento em que o botão do mouse é pressionado ou quando o dedo toca a tela, dependendo do dispositivo.
+
+PointerUpLeft: Esse evento ocorre quando o botão esquerdo do mouse ou o toque é liberado. Ou seja, é disparado no 
+momento em que o botão do mouse é solto ou quando o dedo é removido da tela.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
